@@ -509,7 +509,7 @@
 						CreatedOnToolsVersion = 8.3.2;
 						DevelopmentTeam = D3W28P439J;
 						LastSwiftMigration = 0830;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 0;
@@ -793,12 +793,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Niraj Hutheesing (L54ELEC6S5)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Lucky Dev (5UG9X6V4XD)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Lucky Dev (5UG9X6V4XD)";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D3W28P439J;
 				INFOPLIST_FILE = FDA/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = gov.fda.oc.innovation.irmd.preprod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -815,12 +815,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Niraj Hutheesing (L54ELEC6S5)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Lucky Dev (5UG9X6V4XD)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Lucky Dev (5UG9X6V4XD)";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D3W28P439J;
 				INFOPLIST_FILE = FDA/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = gov.fda.oc.innovation.irmd.preprod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
