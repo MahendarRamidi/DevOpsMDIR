@@ -1,0 +1,728 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AcceptTrayStep2PreSurgeryViewController"
+provides-nominal:
+- "3FDA39AcceptTrayStep2PreSurgeryViewControllerC"
+provides-member:
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", ""]
+provides-dynamic-lookup:
+- "arrTrayBaseline"
+- "arrTrayType"
+- "btnEditImplant"
+- "btnEditImplants"
+- "btnScceptAndGoToNextTray"
+- "dicForImageRecognitionResponse"
+- "dicForsaveTrays"
+- "didReceiveMemoryWarning"
+- "gotoTrayButton"
+- "image"
+- "imageView"
+- "prepare"
+- "tapAction"
+- "totalNumberOfTrays"
+- "trayArr"
+- "trayNumber"
+- "trayType"
+- "viewDidLoad"
+- "viewWillAppear"
+depends-top-level:
+- !private "=="
+- "AcceptTrayStep2PreSurgeryViewController"
+- "AssignmentPrecedence"
+- "Bool"
+- "CastingPrecedence"
+- !private "CommanMethods"
+- !private "Constants"
+- "Dictionary"
+- !private "EditImplantPreSurgeryViewController"
+- "Int"
+- "NSMutableArray"
+- "NSString"
+- "String"
+- "StringLiteralType"
+- !private "TrayDetailViewController"
+- "UIButton"
+- "UIImage"
+- "UIImageView"
+- "UIStoryboardSegue"
+- "UIViewController"
+depends-member:
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "Bool"]
+- !private ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "CommanMethods"]
+- !private ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "Constants"]
+- !private ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "EditImplantPreSurgeryViewController"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "Int"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "NSMutableArray"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "NSString"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "String"]
+- !private ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "TrayDetailViewController"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "UIButton"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "UIImage"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "UIImageView"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "UIStoryboardSegue"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "arrTrayBaseline"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "arrTrayType"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "btnEditImplant"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "btnEditImplants"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "btnScceptAndGoToNextTray"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "deinit"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "dicForImageRecognitionResponse"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "dicForsaveTrays"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "didReceiveMemoryWarning"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "gotoTrayButton"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "image"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "imageView"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "init"]
+- !private ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "performSegue"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "prepare"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "tapAction"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "totalNumberOfTrays"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "trayArr"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "trayNumber"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "trayType"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "viewDidLoad"]
+- ["3FDA39AcceptTrayStep2PreSurgeryViewControllerC", "viewWillAppear"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["s7CVarArgP", "CommanMethods"]
+- !private ["s7CVarArgP", "Constants"]
+- ["s7CVarArgP", "NSMutableArray"]
+- !private ["s7CVarArgP", "arrTrayBaseline"]
+- !private ["s7CVarArgP", "arrTrayType"]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "dicForImageRecognitionResponse"]
+- !private ["s7CVarArgP", "dicForsaveTrays"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "identifier"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "imageView"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["s7CVarArgP", "performSegue"]
+- !private ["s7CVarArgP", "showImage"]
+- !private ["s7CVarArgP", "totalNumberOfTrays"]
+- !private ["s7CVarArgP", "trayNumber"]
+- !private ["s7CVarArgP", "trayType"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["3FDA13CommanMethodsC", "showImage"]
+- !private ["s10ComparableP", "init"]
+- !private ["3FDA9ConstantsC", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "CommanMethods"]
+- !private ["s28CustomDebugStringConvertibleP", "Constants"]
+- ["s28CustomDebugStringConvertibleP", "NSMutableArray"]
+- !private ["s28CustomDebugStringConvertibleP", "arrTrayBaseline"]
+- !private ["s28CustomDebugStringConvertibleP", "arrTrayType"]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "dicForImageRecognitionResponse"]
+- !private ["s28CustomDebugStringConvertibleP", "dicForsaveTrays"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "identifier"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "imageView"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "performSegue"]
+- !private ["s28CustomDebugStringConvertibleP", "showImage"]
+- !private ["s28CustomDebugStringConvertibleP", "totalNumberOfTrays"]
+- !private ["s28CustomDebugStringConvertibleP", "trayNumber"]
+- !private ["s28CustomDebugStringConvertibleP", "trayType"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CommanMethods"]
+- !private ["s23CustomStringConvertibleP", "Constants"]
+- ["s23CustomStringConvertibleP", "NSMutableArray"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "arrTrayBaseline"]
+- !private ["s23CustomStringConvertibleP", "arrTrayType"]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "dicForImageRecognitionResponse"]
+- !private ["s23CustomStringConvertibleP", "dicForsaveTrays"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "identifier"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "imageView"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["s23CustomStringConvertibleP", "performSegue"]
+- !private ["s23CustomStringConvertibleP", "showImage"]
+- !private ["s23CustomStringConvertibleP", "totalNumberOfTrays"]
+- !private ["s23CustomStringConvertibleP", "trayNumber"]
+- !private ["s23CustomStringConvertibleP", "trayType"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["3FDA35EditImplantPreSurgeryViewControllerC", "arrTrayBaseline"]
+- !private ["3FDA35EditImplantPreSurgeryViewControllerC", "arrTrayType"]
+- !private ["3FDA35EditImplantPreSurgeryViewControllerC", "dicForImageRecognitionResponse"]
+- !private ["3FDA35EditImplantPreSurgeryViewControllerC", "dicForsaveTrays"]
+- !private ["3FDA35EditImplantPreSurgeryViewControllerC", "image"]
+- !private ["3FDA35EditImplantPreSurgeryViewControllerC", "trayNumber"]
+- !private ["3FDA35EditImplantPreSurgeryViewControllerC", "trayType"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "CommanMethods"]
+- !private ["s9EquatableP", "Constants"]
+- ["s9EquatableP", "NSMutableArray"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "arrTrayBaseline"]
+- !private ["s9EquatableP", "arrTrayType"]
+- !private ["s9EquatableP", "destination"]
+- !private ["s9EquatableP", "dicForImageRecognitionResponse"]
+- !private ["s9EquatableP", "dicForsaveTrays"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "identifier"]
+- !private ["s9EquatableP", "image"]
+- !private ["s9EquatableP", "imageView"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["s9EquatableP", "performSegue"]
+- !private ["s9EquatableP", "showImage"]
+- !private ["s9EquatableP", "totalNumberOfTrays"]
+- !private ["s9EquatableP", "trayNumber"]
+- !private ["s9EquatableP", "trayType"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "CommanMethods"]
+- !private ["s8HashableP", "Constants"]
+- ["s8HashableP", "NSMutableArray"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "arrTrayBaseline"]
+- !private ["s8HashableP", "arrTrayType"]
+- !private ["s8HashableP", "destination"]
+- !private ["s8HashableP", "dicForImageRecognitionResponse"]
+- !private ["s8HashableP", "dicForsaveTrays"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "identifier"]
+- !private ["s8HashableP", "image"]
+- !private ["s8HashableP", "imageView"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["s8HashableP", "performSegue"]
+- !private ["s8HashableP", "showImage"]
+- !private ["s8HashableP", "totalNumberOfTrays"]
+- !private ["s8HashableP", "trayNumber"]
+- !private ["s8HashableP", "trayType"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["So7NSArrayC", "init"]
+- !private ["So8NSCodingP", "CommanMethods"]
+- !private ["So8NSCodingP", "Constants"]
+- ["So8NSCodingP", "NSMutableArray"]
+- !private ["So8NSCodingP", "arrTrayBaseline"]
+- !private ["So8NSCodingP", "arrTrayType"]
+- !private ["So8NSCodingP", "dicForImageRecognitionResponse"]
+- !private ["So8NSCodingP", "dicForsaveTrays"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "imageView"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So8NSCodingP", "performSegue"]
+- !private ["So8NSCodingP", "showImage"]
+- !private ["So8NSCodingP", "totalNumberOfTrays"]
+- !private ["So8NSCodingP", "trayNumber"]
+- !private ["So8NSCodingP", "trayType"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "CommanMethods"]
+- !private ["So26NSExtensionRequestHandlingP", "Constants"]
+- ["So26NSExtensionRequestHandlingP", "NSMutableArray"]
+- !private ["So26NSExtensionRequestHandlingP", "arrTrayBaseline"]
+- !private ["So26NSExtensionRequestHandlingP", "arrTrayType"]
+- !private ["So26NSExtensionRequestHandlingP", "dicForImageRecognitionResponse"]
+- !private ["So26NSExtensionRequestHandlingP", "dicForsaveTrays"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "image"]
+- !private ["So26NSExtensionRequestHandlingP", "imageView"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "performSegue"]
+- !private ["So26NSExtensionRequestHandlingP", "showImage"]
+- !private ["So26NSExtensionRequestHandlingP", "totalNumberOfTrays"]
+- !private ["So26NSExtensionRequestHandlingP", "trayNumber"]
+- !private ["So26NSExtensionRequestHandlingP", "trayType"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So17NSFastEnumerationP", "init"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So14NSMutableArrayC", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "CommanMethods"]
+- !private ["So8NSObjectC", "Constants"]
+- !private ["So8NSObjectC", "EditImplantPreSurgeryViewController"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "NSMutableArray"]
+- ["So8NSObjectC", "NSString"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "TrayDetailViewController"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- ["So8NSObjectC", "arrTrayBaseline"]
+- ["So8NSObjectC", "arrTrayType"]
+- ["So8NSObjectC", "btnEditImplant"]
+- ["So8NSObjectC", "btnEditImplants"]
+- ["So8NSObjectC", "btnScceptAndGoToNextTray"]
+- !private ["So8NSObjectC", "destination"]
+- ["So8NSObjectC", "dicForImageRecognitionResponse"]
+- ["So8NSObjectC", "dicForsaveTrays"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "gotoTrayButton"]
+- !private ["So8NSObjectC", "identifier"]
+- ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "imageView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So8NSObjectC", "performSegue"]
+- ["So8NSObjectC", "prepare"]
+- !private ["So8NSObjectC", "showImage"]
+- ["So8NSObjectC", "tapAction"]
+- ["So8NSObjectC", "totalNumberOfTrays"]
+- ["So8NSObjectC", "trayArr"]
+- ["So8NSObjectC", "trayNumber"]
+- ["So8NSObjectC", "trayType"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewWillAppear"]
+- !private ["So16NSObjectProtocolP", "CommanMethods"]
+- !private ["So16NSObjectProtocolP", "Constants"]
+- ["So16NSObjectProtocolP", "NSMutableArray"]
+- !private ["So16NSObjectProtocolP", "arrTrayBaseline"]
+- !private ["So16NSObjectProtocolP", "arrTrayType"]
+- !private ["So16NSObjectProtocolP", "destination"]
+- !private ["So16NSObjectProtocolP", "dicForImageRecognitionResponse"]
+- !private ["So16NSObjectProtocolP", "dicForsaveTrays"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "identifier"]
+- !private ["So16NSObjectProtocolP", "image"]
+- !private ["So16NSObjectProtocolP", "imageView"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So16NSObjectProtocolP", "performSegue"]
+- !private ["So16NSObjectProtocolP", "showImage"]
+- !private ["So16NSObjectProtocolP", "totalNumberOfTrays"]
+- !private ["So16NSObjectProtocolP", "trayNumber"]
+- !private ["So16NSObjectProtocolP", "trayType"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- ["s8SequenceP", "init"]
+- ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["3FDA24TrayDetailViewControllerC", "arrTrayType"]
+- !private ["3FDA24TrayDetailViewControllerC", "dicForsaveTrays"]
+- !private ["3FDA24TrayDetailViewControllerC", "totalNumberOfTrays"]
+- !private ["3FDA24TrayDetailViewControllerC", "trayNumber"]
+- !private ["3FDA24TrayDetailViewControllerC", "trayType"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So21UIAppearanceContainerP", "CommanMethods"]
+- !private ["So21UIAppearanceContainerP", "Constants"]
+- ["So21UIAppearanceContainerP", "NSMutableArray"]
+- !private ["So21UIAppearanceContainerP", "arrTrayBaseline"]
+- !private ["So21UIAppearanceContainerP", "arrTrayType"]
+- !private ["So21UIAppearanceContainerP", "dicForImageRecognitionResponse"]
+- !private ["So21UIAppearanceContainerP", "dicForsaveTrays"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "imageView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So21UIAppearanceContainerP", "performSegue"]
+- !private ["So21UIAppearanceContainerP", "showImage"]
+- !private ["So21UIAppearanceContainerP", "totalNumberOfTrays"]
+- !private ["So21UIAppearanceContainerP", "trayNumber"]
+- !private ["So21UIAppearanceContainerP", "trayType"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "CommanMethods"]
+- !private ["So18UIContentContainerP", "Constants"]
+- ["So18UIContentContainerP", "NSMutableArray"]
+- !private ["So18UIContentContainerP", "arrTrayBaseline"]
+- !private ["So18UIContentContainerP", "arrTrayType"]
+- !private ["So18UIContentContainerP", "dicForImageRecognitionResponse"]
+- !private ["So18UIContentContainerP", "dicForsaveTrays"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "image"]
+- !private ["So18UIContentContainerP", "imageView"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So18UIContentContainerP", "performSegue"]
+- !private ["So18UIContentContainerP", "showImage"]
+- !private ["So18UIContentContainerP", "totalNumberOfTrays"]
+- !private ["So18UIContentContainerP", "trayNumber"]
+- !private ["So18UIContentContainerP", "trayType"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So18UIFocusEnvironmentP", "CommanMethods"]
+- !private ["So18UIFocusEnvironmentP", "Constants"]
+- ["So18UIFocusEnvironmentP", "NSMutableArray"]
+- !private ["So18UIFocusEnvironmentP", "arrTrayBaseline"]
+- !private ["So18UIFocusEnvironmentP", "arrTrayType"]
+- !private ["So18UIFocusEnvironmentP", "dicForImageRecognitionResponse"]
+- !private ["So18UIFocusEnvironmentP", "dicForsaveTrays"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "imageView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So18UIFocusEnvironmentP", "performSegue"]
+- !private ["So18UIFocusEnvironmentP", "showImage"]
+- !private ["So18UIFocusEnvironmentP", "totalNumberOfTrays"]
+- !private ["So18UIFocusEnvironmentP", "trayNumber"]
+- !private ["So18UIFocusEnvironmentP", "trayType"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So30UINavigationControllerDelegateP", "showImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "CommanMethods"]
+- !private ["So30UIPasteConfigurationSupportingP", "Constants"]
+- ["So30UIPasteConfigurationSupportingP", "NSMutableArray"]
+- !private ["So30UIPasteConfigurationSupportingP", "arrTrayBaseline"]
+- !private ["So30UIPasteConfigurationSupportingP", "arrTrayType"]
+- !private ["So30UIPasteConfigurationSupportingP", "dicForImageRecognitionResponse"]
+- !private ["So30UIPasteConfigurationSupportingP", "dicForsaveTrays"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
+- !private ["So30UIPasteConfigurationSupportingP", "showImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "totalNumberOfTrays"]
+- !private ["So30UIPasteConfigurationSupportingP", "trayNumber"]
+- !private ["So30UIPasteConfigurationSupportingP", "trayType"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "CommanMethods"]
+- !private ["So11UIResponderC", "Constants"]
+- !private ["So11UIResponderC", "EditImplantPreSurgeryViewController"]
+- ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "NSMutableArray"]
+- ["So11UIResponderC", "NSString"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "TrayDetailViewController"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- ["So11UIResponderC", "arrTrayBaseline"]
+- ["So11UIResponderC", "arrTrayType"]
+- ["So11UIResponderC", "btnEditImplant"]
+- ["So11UIResponderC", "btnEditImplants"]
+- ["So11UIResponderC", "btnScceptAndGoToNextTray"]
+- ["So11UIResponderC", "dicForImageRecognitionResponse"]
+- ["So11UIResponderC", "dicForsaveTrays"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "gotoTrayButton"]
+- ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "imageView"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So11UIResponderC", "performSegue"]
+- ["So11UIResponderC", "prepare"]
+- !private ["So11UIResponderC", "showImage"]
+- ["So11UIResponderC", "tapAction"]
+- ["So11UIResponderC", "totalNumberOfTrays"]
+- ["So11UIResponderC", "trayArr"]
+- ["So11UIResponderC", "trayNumber"]
+- ["So11UIResponderC", "trayType"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewWillAppear"]
+- !private ["So30UIResponderStandardEditActionsP", "CommanMethods"]
+- !private ["So30UIResponderStandardEditActionsP", "Constants"]
+- ["So30UIResponderStandardEditActionsP", "NSMutableArray"]
+- !private ["So30UIResponderStandardEditActionsP", "arrTrayBaseline"]
+- !private ["So30UIResponderStandardEditActionsP", "arrTrayType"]
+- !private ["So30UIResponderStandardEditActionsP", "dicForImageRecognitionResponse"]
+- !private ["So30UIResponderStandardEditActionsP", "dicForsaveTrays"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "imageView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "performSegue"]
+- !private ["So30UIResponderStandardEditActionsP", "showImage"]
+- !private ["So30UIResponderStandardEditActionsP", "totalNumberOfTrays"]
+- !private ["So30UIResponderStandardEditActionsP", "trayNumber"]
+- !private ["So30UIResponderStandardEditActionsP", "trayType"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So20UIScrollViewDelegateP", "arrTrayType"]
+- !private ["So20UIScrollViewDelegateP", "dicForsaveTrays"]
+- !private ["So20UIScrollViewDelegateP", "totalNumberOfTrays"]
+- !private ["So20UIScrollViewDelegateP", "trayNumber"]
+- !private ["So20UIScrollViewDelegateP", "trayType"]
+- !private ["So16UIStateRestoringP", "CommanMethods"]
+- !private ["So16UIStateRestoringP", "Constants"]
+- ["So16UIStateRestoringP", "NSMutableArray"]
+- !private ["So16UIStateRestoringP", "arrTrayBaseline"]
+- !private ["So16UIStateRestoringP", "arrTrayType"]
+- !private ["So16UIStateRestoringP", "dicForImageRecognitionResponse"]
+- !private ["So16UIStateRestoringP", "dicForsaveTrays"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "image"]
+- !private ["So16UIStateRestoringP", "imageView"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So16UIStateRestoringP", "performSegue"]
+- !private ["So16UIStateRestoringP", "showImage"]
+- !private ["So16UIStateRestoringP", "totalNumberOfTrays"]
+- !private ["So16UIStateRestoringP", "trayNumber"]
+- !private ["So16UIStateRestoringP", "trayType"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So17UIStoryboardSegueC", "destination"]
+- !private ["So17UIStoryboardSegueC", "identifier"]
+- !private ["So21UITableViewDataSourceP", "arrTrayType"]
+- !private ["So21UITableViewDataSourceP", "dicForsaveTrays"]
+- !private ["So21UITableViewDataSourceP", "totalNumberOfTrays"]
+- !private ["So21UITableViewDataSourceP", "trayNumber"]
+- !private ["So21UITableViewDataSourceP", "trayType"]
+- !private ["So19UITableViewDelegateP", "arrTrayType"]
+- !private ["So19UITableViewDelegateP", "dicForsaveTrays"]
+- !private ["So19UITableViewDelegateP", "totalNumberOfTrays"]
+- !private ["So19UITableViewDelegateP", "trayNumber"]
+- !private ["So19UITableViewDelegateP", "trayType"]
+- !private ["So18UITraitEnvironmentP", "CommanMethods"]
+- !private ["So18UITraitEnvironmentP", "Constants"]
+- ["So18UITraitEnvironmentP", "NSMutableArray"]
+- !private ["So18UITraitEnvironmentP", "arrTrayBaseline"]
+- !private ["So18UITraitEnvironmentP", "arrTrayType"]
+- !private ["So18UITraitEnvironmentP", "dicForImageRecognitionResponse"]
+- !private ["So18UITraitEnvironmentP", "dicForsaveTrays"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "imageView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So18UITraitEnvironmentP", "performSegue"]
+- !private ["So18UITraitEnvironmentP", "showImage"]
+- !private ["So18UITraitEnvironmentP", "totalNumberOfTrays"]
+- !private ["So18UITraitEnvironmentP", "trayNumber"]
+- !private ["So18UITraitEnvironmentP", "trayType"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "image"]
+- ["So16UIViewControllerC", "Bool"]
+- !private ["So16UIViewControllerC", "CommanMethods"]
+- !private ["So16UIViewControllerC", "Constants"]
+- !private ["So16UIViewControllerC", "EditImplantPreSurgeryViewController"]
+- ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "NSMutableArray"]
+- ["So16UIViewControllerC", "NSString"]
+- ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "TrayDetailViewController"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
+- ["So16UIViewControllerC", "arrTrayBaseline"]
+- ["So16UIViewControllerC", "arrTrayType"]
+- ["So16UIViewControllerC", "btnEditImplant"]
+- ["So16UIViewControllerC", "btnEditImplants"]
+- ["So16UIViewControllerC", "btnScceptAndGoToNextTray"]
+- ["So16UIViewControllerC", "dicForImageRecognitionResponse"]
+- ["So16UIViewControllerC", "dicForsaveTrays"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "gotoTrayButton"]
+- ["So16UIViewControllerC", "image"]
+- ["So16UIViewControllerC", "imageView"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["So16UIViewControllerC", "performSegue"]
+- ["So16UIViewControllerC", "prepare"]
+- !private ["So16UIViewControllerC", "showImage"]
+- ["So16UIViewControllerC", "tapAction"]
+- ["So16UIViewControllerC", "totalNumberOfTrays"]
+- ["So16UIViewControllerC", "trayArr"]
+- ["So16UIViewControllerC", "trayNumber"]
+- ["So16UIViewControllerC", "trayType"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewWillAppear"]
+- ["So16UIViewControllerC", ""]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CommanMethods"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Constants"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "NSMutableArray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arrTrayBaseline"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arrTrayType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dicForImageRecognitionResponse"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dicForsaveTrays"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "identifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "kgoToEditImplantPreSurgeryViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "totalNumberOfTrays"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "trayNumber"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "trayType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "3FDA39AcceptTrayStep2PreSurgeryViewControllerC"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "3FDA13CommanMethodsC"
+- !private "s10ComparableP"
+- !private "3FDA9ConstantsC"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "3FDA35EditImplantPreSurgeryViewControllerC"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So7NSArrayC"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So17NSFastEnumerationP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So14NSMutableArrayC"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "s12StaticStringV"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "3FDA24TrayDetailViewControllerC"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So11UIImageViewC"
+- !private "So30UINavigationControllerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- !private "So17UIStoryboardSegueC"
+- !private "So21UITableViewDataSourceP"
+- !private "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/innovationlab/Desktop/DevOpsMDIR/FDA/Helper/FDA-Bridging-Header.h"
+- "/Users/innovationlab/Desktop/DevOpsMDIR/FDA/Helper/UIImage+Convert.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "3dfd83b4c728547c75f1ad4a94d91798"
