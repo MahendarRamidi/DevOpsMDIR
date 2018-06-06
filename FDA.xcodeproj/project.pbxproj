@@ -800,7 +800,7 @@
 				INFOPLIST_FILE = FDA/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "-B-CoreDataProperties.swift-FDA-FDA.xcodeproj-FDATests-TrayAssembly-CoreDataClass.swift-gov.fda.oc.innovation.irmd.preprod";
+				PRODUCT_BUNDLE_IDENTIFIER = gov.fda.oc.innovation.irmd.preprod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -822,7 +822,7 @@
 				INFOPLIST_FILE = FDA/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "-B-CoreDataProperties.swift-FDA-FDA.xcodeproj-FDATests-TrayAssembly-CoreDataClass.swift-gov.fda.oc.innovation.irmd.preprod";
+				PRODUCT_BUNDLE_IDENTIFIER = gov.fda.oc.innovation.irmd.preprod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
